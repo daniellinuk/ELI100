@@ -1,5 +1,5 @@
 ---
-name: asd-ste100-writing
+name: eli100
 description: >-
   Rewrites plans, specs, procedures, how-tos, and decision notes into
   constrained English in the spirit of ASD-STE100 Simplified Technical English

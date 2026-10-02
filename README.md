@@ -21,7 +21,7 @@ npx skills add daniellinuk/ELI100
 Put it on every project for this machine, and skip the prompts:
 
 ```bash
-npx skills add daniellinuk/ELI100 --skill asd-ste100-writing -g -y
+npx skills add daniellinuk/ELI100 --skill eli100 -g -y
 ```
 
 See the skill before you install it:
@@ -30,7 +30,7 @@ See the skill before you install it:
 npx skills add daniellinuk/ELI100 --list
 ```
 
-The skill lives in `skills/asd-ste100-writing/`. That folder name is the skill id.
+The skill lives in `skills/eli100/`. That folder name is the skill id.
 
 ## What you get
 

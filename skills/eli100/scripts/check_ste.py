@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Mechanical checks for ELI100 drafts.
 
-This is an aid for the asd-ste100-writing skill. It is not an official
+This is an aid for the eli100 skill. It is not an official
 ASD-STE100 checker and it does not contain the STE dictionary.
 """
 
